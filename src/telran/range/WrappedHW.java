@@ -1,3 +1,4 @@
+package telran.range;
 
 public class WrappedHW {
 
